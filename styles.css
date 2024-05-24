@@ -41,6 +41,19 @@ ul {
     font-family: 'Courier New', Courier, monospace;
     margin: 10px 0;
 }
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+    overflow-x: auto;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+    color: #c7254e;
+    background-color: #f9f2f4;
+}
 .footer {
     background-color: #333;
     color: black;
